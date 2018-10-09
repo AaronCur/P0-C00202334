@@ -1,0 +1,17 @@
+{
+  "name": "diff",
+  "description": "",
+  "main": "diff.js",
+  "authors": [
+    "AaronCur <c00202505@itcarlow.ie>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AaronCur/P0-C00202334",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
